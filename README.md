@@ -7,7 +7,7 @@ description: 学习python的时候有很多实践才能掌握，很多代码应�
 Becoming a super hero is a fairly straight forward process:
 
 {% hint style="info" %}
- 初次使用，错误在所难免，如有错误，还望见谅，并提出。
+ 初次使用gitbook，排版错误在所难免，还望批评指教。
 {% endhint %}
 
 
